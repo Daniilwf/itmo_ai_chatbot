@@ -1,0 +1,28 @@
+{
+  "ai": [
+    {
+      "file_id": "1NSuBA0VkPzqNfdOD2IDR4TSDY2ea66nx",
+      "courses": [
+        {
+          "raw": "Машинное обучение — 4 зач. — 72 ч."
+        },
+        {
+          "raw": "Глубокое обучение — 3 зач. — 54 ч."
+        }
+      ]
+    }
+  ],
+  "ai_product": [
+    {
+      "file_id": "1Uod9BdkrFqSfiCq6w2nLHQC-tPW_NNRJ",
+      "courses": [
+        {
+          "raw": "Продуктовый менеджмент для AI — 3 зач."
+        },
+        {
+          "raw": "A/B тестирование — 2 зач."
+        }
+      ]
+    }
+  ]
+}
